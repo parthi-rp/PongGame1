@@ -58,7 +58,7 @@ opponent = pygame.Rect(0, screen_height/2-70, 10, 140)
 #ball1_rect = ball1.get_rect(center=(600,400))
 
 ball_speed_x = 7 * choice((1,-1))
-ball_speed_y = 7 * choice((1,-1 ))
+ball_speed_y = 7 * choice((1,-1))
 player_speed = 0
 opponent_speed = 7
 
